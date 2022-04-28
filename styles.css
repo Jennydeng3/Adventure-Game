@@ -1,0 +1,113 @@
+body {
+    color: #0047b3;
+    text-align: center;
+    background-color: #ffd9ad;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Irish Grover', cursive;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+    padding: 0 20px;
+    border: 5px dotted #660000;
+    margin: 20px;
+    padding: 10px;
+}
+
+h1 {
+    font-family: 'Irish Grover', cursive;
+    color: #FF4500;
+    font-size: 50px;
+    font-weight: 800;
+    border: 5px dotted #660000;
+    margin: 20px;
+    padding: 10px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.Part-Two-Yes {
+    font-family: 'Coiny', cursive;
+}
+
+
+.Part-Two-No {
+    font-family: 'Coiny', cursive;
+}
+
+.Story-Ending-Yes {
+    display: none;
+}
+
+.good-img {
+    height: 350px;
+}
+
+.good2-img {
+    height: 250px;
+}
+
+.Story-Ending-No {
+    display: none;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+.bad2-img {
+    height: 200px;
+}
+
+.one {
+    display: none;
+}
+
+.two {
+    display: none;
+}
+
+
+.three {
+    display: none;
+}
+
+.good {
+    display: none;
+}
+
+.bad {
+    display: none;
+}
+
+.Story-Ending-noo {
+    display: none;
+}
+
+.Story-Ending-yess {
+    display: none;
+}
+
+.Story-Ending-yesss {
+    display: none;
+}
